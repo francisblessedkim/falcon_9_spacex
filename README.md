@@ -21,17 +21,20 @@ This project uses machine learning to predict the success of Falcon 9 first-stag
 
 
 
+```plaintext
 ├── data/
-│   ├── spacex\_launches.csv         # Final cleaned dataset
+│   └── spacex_launches.csv         # Final cleaned dataset
 ├── notebooks/
-│   ├── 1\_data\_collection.ipynb     # API + scraping
-│   ├── 2\_data\_wrangling.ipynb      # Cleaning, feature engineering
-│   ├── 3\_eda\_sql.ipynb             # SQL analysis
-│   ├── 4\_eda\_visual.ipynb          # Plotly, Folium, Seaborn
-│   ├── 5\_modeling.ipynb            # ML models + tuning
-│   └── 6\_dashboard.py              # Plotly Dash app
+│   ├── 1_data_collection.ipynb     # API + scraping
+│   ├── 2_data_wrangling.ipynb      # Cleaning, feature engineering
+│   ├── 3_eda_sql.ipynb             # SQL analysis
+│   ├── 4_eda_visual.ipynb          # Plotly, Folium, Seaborn
+│   ├── 5_modeling.ipynb            # ML models + tuning
+│   └── 6_dashboard.py              # Plotly Dash app
 ├── requirements.txt
 └── README.md
+```
+
 
 
 
