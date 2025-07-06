@@ -17,26 +17,6 @@ This project uses machine learning to predict the success of Falcon 9 first-stag
   - SpaceX REST API (v4)
   - Wikipedia scraping for historical data
 
-## 📁 Project Structure
-
-
-
-```plaintext
-├── data/
-│   └── spacex_launches.csv         # Final cleaned dataset
-├── notebooks/
-│   ├── 1_data_collection.ipynb     # API + scraping
-│   ├── 2_data_wrangling.ipynb      # Cleaning, feature engineering
-│   ├── 3_eda_sql.ipynb             # SQL analysis
-│   ├── 4_eda_visual.ipynb          # Plotly, Folium, Seaborn
-│   ├── 5_modeling.ipynb            # ML models + tuning
-│   └── 6_dashboard.py              # Plotly Dash app
-├── requirements.txt
-└── README.md
-```
-
-
-
 
 ## 📈 Key Insights
 
