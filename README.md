@@ -19,7 +19,7 @@ This project uses machine learning to predict the success of Falcon 9 first-stag
 
 ## 📁 Project Structure
 
-```
+
 
 ├── data/
 │   ├── spacex\_launches.csv         # Final cleaned dataset
@@ -33,7 +33,7 @@ This project uses machine learning to predict the success of Falcon 9 first-stag
 ├── requirements.txt
 └── README.md
 
-```
+
 
 ## 📈 Key Insights
 
